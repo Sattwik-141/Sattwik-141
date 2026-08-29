@@ -53,8 +53,7 @@ I like understanding how things work rather than just making them work.
 - 💼 LinkedIn: [https://www.linkedin.com/in/sattwik-bishnu/](#)
 - 🧑‍💻 LeetCode: [https://leetcode.com/u/SattwikB141/](#)
 - 🏆 Codeforces: [https://codeforces.com/profile/SattwikB](#)
-- 📧 Email: sattwikb141x@gmail.com
-- 
+- 📧 Email: sattwikb141x@gmail.com 
 
 ---
 
