@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hey, I'm Sattwik 👋
 I'm a Electronics & Communication Engineering student who enjoys solving problems and building things.
 
-I'm particularly interested in **Software Development, Data Structures & Algorithms, Backend Development, and Machine Learning**.
+I'm particularly interested in **Data Structures & Algorithms, Backend Development, and Machine Learning**.
 
 I like understanding how things work rather than just making them work.
 
